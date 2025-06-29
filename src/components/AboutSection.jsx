@@ -1,5 +1,5 @@
 import { Briefcase, Code, User } from "lucide-react";
-import resume from "../assets/resume.pdf?url";
+import resume from '/Resume.pdf';
 
 export const AboutSection = () => {
   return (
